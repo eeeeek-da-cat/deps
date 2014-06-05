@@ -1,0 +1,1 @@
+Windows Dependencies for cryptocoins
